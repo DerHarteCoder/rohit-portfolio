@@ -22,7 +22,7 @@ function Contact() {
             <FaGithub size={32} className="mb-2" />
             <span className="text-sm">GitHub</span>
           </a>
-          <a href="https://www.rohityadav.tech" target="_blank" rel="noopener noreferrer" className="text-accent-color hover:text-white transition-colors duration-200 flex flex-col items-center">
+          <a href="https://rohityadavdev.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-accent-color hover:text-white transition-colors duration-200 flex flex-col items-center">
             <FaGlobe size={32} className="mb-2" />
             <span className="text-sm">Website</span>
           </a>
